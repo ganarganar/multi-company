@@ -1,6 +1,6 @@
-=========================
-Argentina - Point Of Sale
-=========================
+==============================
+Inter Company Invoices - LATAM
+==============================
 
 .. |badge1| image:: https://img.shields.io/badge/maturity-Beta-yellow.png
     :target: https://odoo-community.org/page/development-status
