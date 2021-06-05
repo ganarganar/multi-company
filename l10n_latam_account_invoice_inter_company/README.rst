@@ -17,7 +17,7 @@ Inter Company Invoices - LATAM
 This module adapts inter-company transactions by:
 
 #. Adding fields of l10n_latam_invoice_document to the data transfer.
-#. Searching an account.journal without documents if the origin account.journal.
+#. Searching an account.journal without documents if the origin account.journal is not using documents.
 
 **Table of contents**
 
